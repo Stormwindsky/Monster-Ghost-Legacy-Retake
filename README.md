@@ -6,4 +6,4 @@ all assets are under license CC0 1.0 are all made by me excepted the music was m
 
 here: https://commons.wikimedia.org/wiki/File:Place_Royale_and_Notre-Dame-des-Victoires_at_night.jpg
 
-& THE SOURCE IS UNDER LICENSE MIT-0
+& THE SOURCE CODE IS UNDER LICENSE MIT-0
